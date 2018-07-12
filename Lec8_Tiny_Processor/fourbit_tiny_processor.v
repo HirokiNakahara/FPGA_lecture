@@ -134,3 +134,4 @@ module fourbit_tiny_processor(
         default:   INST_DEC = 7'b0000_0_00;
         endcase
     end
+endmodule
