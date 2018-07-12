@@ -103,3 +103,5 @@ module fir_1(
             end
             endcase
         end
+    end
+endmodule
