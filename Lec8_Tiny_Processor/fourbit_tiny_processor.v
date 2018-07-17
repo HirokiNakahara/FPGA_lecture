@@ -135,4 +135,7 @@ module fourbit_tiny_processor(
         endcase
     end
     endfunction
+    
+    assign tmp_add_result = sel_val + IMM;
+    
 endmodule
