@@ -123,7 +123,7 @@ module fourbit_tiny_processor(
         5'b0010_x: INST_DEC = 7'b1001_0_01;
         5'b0011_x: INST_DEC = 7'b1010_0_00;
         5'b0100_x: INST_DEC = 7'b1001_0_00;
-        5'b0101_x: INST_DEC = 7'b1001_0_01;
+        5'b0101_x: INST_DEC = 7'b1010_0_01;
         5'b0110_x: INST_DEC = 7'b1001_0_10;
         5'b0111_x: INST_DEC = 7'b1010_0_10;
         5'b1000_x: INST_DEC = 7'b1100_0_11;
